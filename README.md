@@ -1,40 +1,43 @@
-# ISO 27001 Readiness Checklist 🛡️
+ISO 27001 Readiness Checklist
+Overview
+This repository contains a practical checklist designed to guide organizations through the preparation and implementation steps for ISO/IEC 27001 certification.
+It is organized around key phases, from leadership commitment to continual improvement, ensuring a structured, audit-ready Information Security Management System (ISMS).
 
-## Overview
-This project provides a **practical checklist** to help organizations prepare for ISO/IEC 27001 certification.  
-It covers essential activities across leadership, risk management, documentation, audits, and continual improvement, making the certification journey structured and manageable.
+Why It Matters
+Achieving ISO 27001 certification demonstrates an organization’s commitment to managing information security risks and protecting data.
+This checklist was built to streamline the preparation process, highlight critical focus areas, and support successful certification efforts.
 
-## Why This Project?
-ISO 27001 is the international standard for information security management systems (ISMS).  
-Preparing for certification requires a clear strategy, stakeholder alignment, and disciplined tracking of tasks — this checklist was designed to empower organizations to confidently pass ISO 27001 audits.
+What's Included
+Leadership and Executive Support
 
-## What's Included
-- ✅ Leadership Commitment
-- ✅ Information Security Policy Creation
-- ✅ Risk Assessment and Risk Treatment Plans
-- ✅ Statement of Applicability (SoA)
-- ✅ ISMS Documentation
-- ✅ Security Training and Awareness
-- ✅ Internal Audit Planning
-- ✅ Management Review Procedures
-- ✅ Continual Improvement Framework
+Information Security Policy Development
 
-View the full checklist:  
-➡️ [`iso_27001_readiness_checklist.md`](./iso_27001_readiness_checklist.md)
+Risk Assessment and Risk Treatment Planning
 
-## How to Use
-1. Clone the repository.
-2. Review the checklist items.
-3. Track your organization’s progress as you prepare for ISO 27001 certification.
+Statement of Applicability (SoA) Management
 
-## Author
-👩‍💻 **Neviar Rawlinson**  
-*IT Governance & Process Analyst specializing in risk management, process improvement, and cybersecurity frameworks.*
+Documentation and Operational Controls
 
-- [LinkedIn Profile](https://www.linkedin.com/in/neviar-rawlinson-mba-itm-csm-23199616b/)
-- [Portfolio Website](https://neviarrawlinson.github.io/)
+Internal Audits and Management Reviews
 
----
+Continual Improvement Planning
 
-> **“Failing to plan is planning to fail.”**  
-> This checklist ensures you plan for success! 🎯
+How to Use
+Review each section of the checklist (iso_27001_readiness_checklist.md).
+
+Work through the tasks systematically.
+
+Track progress toward certification milestones.
+
+Regularly review and update the checklist as initiatives evolve.
+
+Author
+Neviar Rawlinson
+IT Governance & Process Analyst | GRC | Risk Management | Process Optimization
+
+LinkedIn Profile
+
+Portfolio Website
+
+"Great organizations don't just prepare for audits — they build a culture of security resilience."
+— Neviar Rawlinson
