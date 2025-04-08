@@ -1,3 +1,5 @@
+![ISO 27001 Readiness Banner](assets/banner.png)
+
 # ISO 27001 Readiness Project
 
 ---
