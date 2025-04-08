@@ -1,41 +1,50 @@
-# ISO 27001 Readiness Checklist
+# ISO 27001 Readiness Project
+
+---
 
 ## Overview
-This repository contains a practical checklist designed to guide organizations through the preparation and implementation steps for ISO/IEC 27001 certification.  
-It is organized around key phases, from leadership commitment to continual improvement, ensuring a structured, audit-ready Information Security Management System (ISMS).
+
+This repository contains a practical checklist and roadmap designed to guide organizations through the preparation and implementation steps for ISO/IEC 27001 certification.
+
+It is organized around key phases — from leadership commitment to continual improvement — ensuring a structured, audit-ready Information Security Management System (ISMS).
+
+---
 
 ## Why It Matters
-Achieving ISO 27001 certification demonstrates an organization’s commitment to managing information security risks and protecting data.  
-This checklist was built to streamline the preparation process, highlight critical focus areas, and support successful certification efforts.
+
+Achieving ISO 27001 certification demonstrates an organization’s commitment to managing information security risks and protecting sensitive information.
+
+This checklist and roadmap were built to streamline the preparation process, highlight critical focus areas, and support successful certification efforts.
+
+---
 
 ## What's Included
-- Leadership and Executive Support
-- Information Security Policy Development
+
+- Leadership and Executive Support Framework
+- Information Security Policy Development Guidance
 - Risk Assessment and Risk Treatment Planning
 - Statement of Applicability (SoA) Management
-- Documentation and Operational Controls
+- Documentation and Operational Control Best Practices
 - Internal Audits and Management Reviews
-- Continual Improvement Planning
+- Continual Improvement Planning Templates
+
+---
 
 ## How to Use
-1. Review each section of the checklist (`iso_27001_readiness_checklist.md`).
-2. Work through the tasks systematically.
-3. Track progress toward certification milestones.
-4. Regularly review and update the checklist as initiatives evolve.
 
-## Author
-**Neviar Rawlinson**  
-IT Governance & Process Analyst | GRC | Risk Management | Process Optimization
+1. Review each section of the Readiness Checklist ([iso_27001_readiness_checklist.md](./iso_27001_readiness_checklist.md)).
+2. Work through the tasks systematically and document progress.
+3. Track milestones and prepare for internal and external audits.
+4. Regularly review and update your ISMS documentation as your organization evolves.
 
-- [LinkedIn Profile](https://www.linkedin.com/in/neviar-rawlinson-mba-itm-csm-23199616b/)
-- [Portfolio Website](https://neviarrawlinson.github.io/)
+---
 
-- ## 📍 ISO 27001 Certification Roadmap
+## ISO 27001 Certification Roadmap
 
 This high-level roadmap outlines the recommended phases to achieve ISO/IEC 27001 certification:
 
 | Phase | Description | Key Outputs |
-|:-----|:-------------|:------------|
+|:------|:------------|:------------|
 | **Phase 1: Initiation** | Secure leadership support, define scope, assign project resources. | Project Charter, Scope Statement |
 | **Phase 2: Risk Assessment & Planning** | Identify information assets, assess risks, select controls, develop treatment plans. | Risk Assessment Report, Risk Treatment Plan |
 | **Phase 3: ISMS Development** | Draft policies, procedures, and implement technical/organizational controls. | ISMS Documentation, Policies, Access Control Mechanisms |
@@ -47,6 +56,20 @@ This high-level roadmap outlines the recommended phases to achieve ISO/IEC 27001
 
 ---
 
+## Quote
+
 > "Great organizations don't just prepare for audits — they build a culture of security resilience."  
 > — Neviar Rawlinson
+
+---
+
+## Author
+
+**Neviar Rawlinson**  
+IT Governance & Process Analyst | GRC | Risk Management | Process Optimization
+
+- [LinkedIn Profile](https://www.linkedin.com/in/neviar-rawlinson-mba-itm-csm-23199616b/)
+- [Portfolio Website](https://neviarrawlinson.github.io/)
+
+---
 
