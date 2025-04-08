@@ -30,6 +30,21 @@ IT Governance & Process Analyst | GRC | Risk Management | Process Optimization
 - [LinkedIn Profile](https://www.linkedin.com/in/neviar-rawlinson-mba-itm-csm-23199616b/)
 - [Portfolio Website](https://neviarrawlinson.github.io/)
 
+- ## 📍 ISO 27001 Certification Roadmap
+
+This high-level roadmap outlines the recommended phases to achieve ISO/IEC 27001 certification:
+
+| Phase | Description | Key Outputs |
+|:-----|:-------------|:------------|
+| **Phase 1: Initiation** | Secure leadership support, define scope, assign project resources. | Project Charter, Scope Statement |
+| **Phase 2: Risk Assessment & Planning** | Identify information assets, assess risks, select controls, develop treatment plans. | Risk Assessment Report, Risk Treatment Plan |
+| **Phase 3: ISMS Development** | Draft policies, procedures, and implement technical/organizational controls. | ISMS Documentation, Policies, Access Control Mechanisms |
+| **Phase 4: Internal Training & Awareness** | Conduct employee security awareness training and role-based control training. | Training Materials, Training Logs |
+| **Phase 5: Internal Audit** | Perform an internal audit to validate ISMS implementation and effectiveness. | Internal Audit Report, Corrective Action Plans |
+| **Phase 6: Management Review** | Leadership formally reviews ISMS performance, risks, objectives, and audit results. | Management Review Records |
+| **Phase 7: Certification Audit** | Engage an external auditor to conduct Stage 1 (Document Review) and Stage 2 (Implementation Review) audits. | Certification Readiness Assessment |
+| **Phase 8: Continual Improvement** | Ongoing risk monitoring, corrective actions, and ISMS updates. | Continuous Improvement Logs |
+
 ---
 
 > "Great organizations don't just prepare for audits — they build a culture of security resilience."  
